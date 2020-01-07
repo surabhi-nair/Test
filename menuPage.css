@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Menu Page</title>
+        <link rel="stylesheet" href="menuPage.css">
+    </head>
+    <body>
+            <div class="navbar">
+
+                    <div class="dropdown">
+                      <button class="dropbtn">Report
+                        <i class="fa fa-caret-down"></i>
+                      </button>
+                      <div class="dropdown-content">
+                        <a href="#">View Individual Assessment Report</a>
+                        <a href="#">View Batchwise Assessment Report</a>
+                        <a href="#">Current status report of training group </a>
+                        <a href="#">Batchwise training status Report</a>
+                        </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">User
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">Create user</a>
+                              <a href="#">View user status report</a>
+                              <a href="#">View user training information</a>
+                              <a href="#">View user project allocation</a>
+                              <a href="#">Delete user</a>
+                              <a href="#">Update user</a>
+                              <a href="#">Upload project allocation details of previous batch</a>
+                            </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">Training
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">Upload course plan</a>
+                              <a href="#">Delete course plan</a>
+                              <a href="#">View course plan</a>
+                              <a href="#">Upload weekly training plan</a>
+                              <a href="#">Delete training plan</a>
+                              <a href="#">Update training plan</a>
+                              <a href="#">View training plan and current status</a>
+                              <a href="#">Create training group</a>
+                              <a href="#">Update training group</a>
+                              <a href="#">View training group details</a>
+                              <a href="#">Delete training group</a>
+                            </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">Assessment
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">Create Assessment</a>
+                              <a href="#">Delete Assessment</a>
+                              <a href="#">Update Assessment</a>
+                              <a href="#">View all Assessments</a>
+                              <a href="#">Create Evaluation Criteria</a>
+                              <a href="#">Update Evaluation Criteria</a>
+                              <a href="#">Delete Evaluation Criteria</a>
+                              <a href="#">Upload previous batch assessment details as Excel</a>
+                            </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">Technology
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">Create technology</a>
+                              <a href="#">Update technology</a>
+                              <a href="#">Delete technology</a>
+                              <a href="#">Update technology</a>
+                            </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">Onboarding
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">View onboarding documents</a>
+                              <a href="#">Upload documents of a user</a>
+                              <a href="#">Update document verification status</a>
+                            </div>
+                    </div>
+
+                    <div class="dropdown">
+                            <button class="dropbtn">Role
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="#">Create role</a>
+                              <a href="#">View role</a>
+                              <a href="#">Delete role</a>
+                              <a href="#">Update role</a>
+                            </div>
+                    </div>
+
+            </div>
+
+    </body>
+</html>
